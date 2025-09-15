@@ -4,6 +4,9 @@
 
 An intelligent AI-powered product recommendation system that solves real-world product discovery challenges using vector similarity search, built with TiDB Cloud Vector Search and FastAPI.
 
+## 🎥 Demonstration Video  
+Watch the demo (https://drive.google.com/file/d/1g5ZC6a1r5azBSwWAwMaanozIDMuLMBQ5/view?usp=sharing)
+
 ## 🎯 Problem Solved
 
 E-commerce platforms struggle with helping users discover relevant products through natural language queries. This AI agent provides intelligent product recommendations by understanding user intent through semantic search.
