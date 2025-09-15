@@ -7,6 +7,12 @@ An intelligent AI-powered product recommendation system that solves real-world p
 ## 🎥 Demonstration Video  
 Watch the demo (https://drive.google.com/file/d/1g5ZC6a1r5azBSwWAwMaanozIDMuLMBQ5/view?usp=sharing)
 
+
+## TiDB Cloud Account Email: wilsonbmiles@gmail.com
+
+
+## Project Repository URL: https://github.com/Dessyonpoint/smart-product-ai
+
 ## 🎯 Problem Solved
 
 E-commerce platforms struggle with helping users discover relevant products through natural language queries. This AI agent provides intelligent product recommendations by understanding user intent through semantic search.
